@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="52bd037e-ead7-40bd-9a91-58320ff1a550" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Modules/src/Banco.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Modules/src/testes/kotlin/BancoTeste.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Modules/src/ClienteTipo.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Modules/src/testes/kotlin/TesteClienteEnum.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -17,6 +17,7 @@
         <option value="Class" />
         <option value="Kotlin Class" />
         <option value="Kotlin Data Class" />
+        <option value="Kotlin Enum" />
         <option value="Kotlin File" />
       </list>
     </option>
@@ -48,7 +49,7 @@
       <recent name="$PROJECT_DIR$/Modules/src" />
     </key>
   </component>
-  <component name="RunManager" selected="Kotlin.BancoTesteKt">
+  <component name="RunManager" selected="Kotlin.TesteClienteEnumKt">
     <configuration name="BancoTesteKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="testes.kotlin.BancoTesteKt" />
       <module name="Modules" />
@@ -63,8 +64,16 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="TesteClienteEnumKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="testes.kotlin.TesteClienteEnumKt" />
+      <module name="Modules" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.TesteClienteEnumKt" />
         <item itemvalue="Kotlin.BancoTesteKt" />
         <item itemvalue="Kotlin.BancoTestesKt" />
       </list>
