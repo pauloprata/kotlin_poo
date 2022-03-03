@@ -1,4 +1,5 @@
-class Pessoa {
-    var nome: String = "Paulo"
-    var cpf: String = "123,344"
-}
+abstract class Pessoa (
+        open val nome: String,
+        open val cpf: String
+
+)
